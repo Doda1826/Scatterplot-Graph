@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+svg{
+    background-color: #ffffff;
+}
+
+#title{
+    font-size: 30px;
+}
+
+#tooltip{
+    visibility: hidden;
+    width: auto;
+    height: auto;
+}
